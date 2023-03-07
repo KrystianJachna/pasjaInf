@@ -1,3 +1,0 @@
-C:/Users/kryst/OneDrive/Pulpit/prog/pasjaInf/dru/cmake-build-debug/CMakeFiles/dru.dir
-C:/Users/kryst/OneDrive/Pulpit/prog/pasjaInf/dru/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kryst/OneDrive/Pulpit/prog/pasjaInf/dru/cmake-build-debug/CMakeFiles/rebuild_cache.dir
